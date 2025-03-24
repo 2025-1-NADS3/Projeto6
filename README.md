@@ -2,7 +2,7 @@
 Projeto 6
 
 
-# FECAP - Fundação de Comércio Álvares Penteado
+# StudyBank
 
 <p align="center">
   <img src="imagens/Captura de tela 2025-03-22 152033.png" alt="Descrição da imagem" width="400">
