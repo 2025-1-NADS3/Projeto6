@@ -14,7 +14,7 @@ StudyBank
 
 ## Nome do Grupo
 
-# Grupo 6
+Grupo 6
 
 ## Integrantes: <a href="https://www.linkedin.com/in/andreia-alaini-854a88208/">Andreia Alaini Silva</a>, <a href="https://www.linkedin.com/in/bruna-farias-727a27277/">Bruna Farias Pires</a>, <a href="https://www.linkedin.com/in/guilherme-mendes-albuquerque-6a50b330a/">Guilherme Mendes Albuquerque</a>, <a href="https://www.linkedin.com/in/luan-m-132452142/">Luan Meireles Franchini</a>
 
