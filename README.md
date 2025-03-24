@@ -9,12 +9,20 @@ Projeto 6
 </p>
 
 # Nome do Projeto
-StudyBank
-## Nome do Grupo
-Grupo 6
-## Integrantes: Andreia Alaini Silva, Bruna Farias Pires, Guilherme Mendes Albuquerque, Luan Meireles Franchine
 
-## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Dr. Victor Von Doom</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Saitama</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Strange</a>, <a href="https://www.linkedin.com/in/victorbarq/">Me. Yoda</a>, <a href="https://www.linkedin.com/in/victorbarq/">Dr. Gero</a>
+StudyBank
+
+## Nome do Grupo
+
+Grupo 6
+
+## Integrantes:
+
+Andreia Alaini Silva, Bruna Farias Pires, Guilherme Mendes Albuquerque, Luan Meireles Franchine
+
+## Professores Orientadores:  
+
+Victor Bruno Alexander
 
 ## Descrição
 
@@ -24,7 +32,8 @@ Grupo 6
 </p>
 
 
-De um a dois parágrafos sobre o que é seu projeto e o que ele faz.
+O aplicativo de gerenciamento bancário para estudantes do ensino superior foi desenvolvido para ajudar os alunos a organizarem suas finanças pessoais de maneira prática e eficiente. com uma interface simples e intuitiva, permitindo o controle de gastos diários, categorização de despesas e o acompanhamento de saldo. Além disso, a ferramenta oferece funcionalidades como o planejamento de orçamento mensais, ajudando os estudantes a tomarem decisões financeiras mais conscientes e alinnhadas ao seu objetivo.
+Pensando nas necessidades específicas de quem está na vida acadêmica, o aplicativo também possibilita a criação de categorias de despesas relacionadas a itens como livros e alimentação.
 <br><br>
 Meu projeto ajuda estudantes FECAP a configurarem seus githubs.
 <br><br>
