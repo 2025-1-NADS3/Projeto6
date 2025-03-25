@@ -22,11 +22,6 @@ Grupo 6
 
 ## Descrição
 
-<p align="center">
-<img src="https://pix4free.org/assets/library/2021-01-20/originals/game.jpg" alt="NOME DO JOGO" border="0">
-  Game by <a href="http://www.nyphotographic.com/">Nick Youngson</a> <a rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/">CC BY-SA 3.0</a> <a href="http://pix4free.org/">Pix4free</a>
-</p>
-
 
 O aplicativo de gerenciamento bancário para estudantes do ensino superior foi desenvolvido para ajudar os alunos a organizarem suas finanças pessoais de maneira prática e eficiente. com uma interface simples e intuitiva, permitindo o controle de gastos diários, categorização de despesas e o acompanhamento de saldo. Além disso, a ferramenta oferece funcionalidades como o planejamento de orçamento mensais, ajudando os estudantes a tomarem decisões financeiras mais conscientes e alinnhadas ao seu objetivo.
 Pensando nas necessidades específicas de quem está na vida acadêmica, o aplicativo também possibilita a criação de categorias de despesas relacionadas a itens como livros e alimentação.
