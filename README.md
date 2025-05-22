@@ -102,8 +102,9 @@ Coloque código do prompt de comnando se for necessário
 ```
 
 ## 📋 Licença/License
-Utilize o link <https://chooser-beta.creativecommons.org/> para fazer uma licença CC BY 4.0.
-
+<<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
+    Study Bank © 2025 by Liberdade - São Paulo está licenciado sob a Licença Creative Commons Atribuição 4.0 Internacional. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by/4.0/
+</font>
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
