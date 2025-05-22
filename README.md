@@ -39,28 +39,12 @@ May the force be with you!
   &emsp;|-->antigos<br>
   &emsp;|Documentação.docx<br>
 |-->executáveis<br>
-  &emsp;|-->windows<br>
   &emsp;|-->android<br>
-  &emsp;|-->HTML<br>
 |-->imagens<br>
 |-->src<br>
   &emsp;|-->Backend<br>
   &emsp;|-->Frontend<br>
 |readme.md<br>
-
-A pasta raiz contem dois arquivos que devem ser alterados:
-
-<b>README.MD</b>: Arquivo que serve como guia e explicação geral sobre seu projeto. O mesmo que você está lendo agora.
-
-Há também 4 pastas que seguem da seguinte forma:
-
-<b>documentos</b>: Toda a documentação estará nesta pasta.
-
-<b>executáveis</b>: Binários e executáveis do projeto devem estar nesta pasta.
-
-<b>imagens</b>: Imagens do sistema
-
-<b>src</b>: Pasta que contém o código fonte.
 
 ## 🛠 Instalação
 
@@ -69,37 +53,84 @@ Há também 4 pastas que seguem da seguinte forma:
 Faça o Download do JOGO.apk no seu celular.
 Execute o APK e siga as instruções de seu telefone.
 
-```sh
-Coloque código do prompt de comnando se for necessário
-```
+</b>
 
-<b>Windows:</b>
-
-Não há instalação! Apenas executável!
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
-
-```sh
-Coloque código do prompt de comnando se for necessário
-```
-
-<b>HTML:</b>
-
-Não há instalação!
-Encontre o index.html na pasta executáveis e execute-o como uma página WEB (através de algum browser).
 
 ## 💻 Configuração para Desenvolvimento
 
-Descreva como instalar todas as dependências para desenvolvimento e como rodar um test-suite automatizado de algum tipo. Se necessário, faça isso para múltiplas plataformas.
+✅ REQUISITOS PARA RODAR O PROJETO
 
-Para abrir este projeto você necessita das seguintes ferramentas:
+Para executar este projeto corretamente, você precisa instalar e configurar algumas ferramentas essenciais no ambiente de desenvolvimento. Siga os passos abaixo:
+
+🧰 FERRAMENTAS NECESSÁRIAS
+
+1. ANDROID STUDIO
+- Acesse: https://developer.android.com/studio
+- Baixe e instale a versão mais recente compatível com seu sistema operacional (Windows, macOS ou Linux).
+- Verifique se o Android SDK está instalado durante o setup.
+- Ative o emulador ou conecte um dispositivo físico via USB (com depuração ativada).
+
+2. VERIFICAR A VERSÃO DO SISTEMA
+Garanta que seu ambiente esteja com as versões adequadas:
+- Node.js: Versão recomendada é 18.x ou superior.
+- npm: Versão compatível com seu Node.js.
+- Java: O Android Studio requer o Java JDK. A instalação padrão já inclui uma versão apropriada.
+
+Verifique com os comandos:
+  node -v
+  npm -v
+  java -version
+
+3. SQLITE
+O projeto utiliza SQLite como banco de dados leve e embutido.
+
+- Em sistemas Linux/macOS, use:
+  sudo apt install sqlite3  (ou brew install sqlite3 no macOS)
+
+- No Windows, o SQLite já pode estar embutido, ou você pode baixar o utilitário em: https://www.sqlite.org/download.html
+
+O banco de dados é armazenado localmente no arquivo pet-hero.db.
+
+4. CODESANDBOX (opcional para testes rápidos)
+Você pode testar o back-end SQLite direto pelo CodeSandbox em um ambiente online com suporte a Node.js:
+https://codesandbox.io/
+
+- Clone ou importe o projeto no CodeSandbox.
+- Certifique-se de que o arquivo database.js cria as tabelas corretamente.
+- O SQLite será salvo em memória ou em um arquivo dentro do container do sandbox.
+
+📦 INSTALAÇÃO DAS DEPENDÊNCIAS
+
+No terminal, navegue até a pasta do projeto e execute:
+
+  npm install
+
+🧪 RODAR TESTES AUTOMATIZADOS (OPCIONAL)
+
+Caso o projeto tenha testes automatizados com Jest ou outra biblioteca, você pode executá-los assim:
+
+  npm test
+
+🚀 EXECUTAR O PROJETO
+
+Para iniciar o servidor back-end com o SQLite, use:
+
+  node index.js
+
+O servidor será iniciado normalmente, por padrão na porta 3001:
+
+Servidor rodando na porta 3001
+Conectado ao banco de dados SQLite.
+
+✅ DICAS FINAIS
+
+- Certifique-se de que o arquivo pet-hero.db esteja na raiz ou caminho configurado.
+- Teste as rotas com o Postman ou Insomnia.
+- Use o terminal do Android Studio para rodar o front-end, se for um app mobile.
+
 
 -<a href="https://godotengine.org/download">GODOT</a>
 
-```sh
-make install
-npm test
-Coloque código do prompt de comnando se for necessário
-```
 
 ## 📋 Licença/License
 <<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -112,5 +143,6 @@ Aqui estão as referências usadas no projeto.
 1. <https://www.udemy.com/>
 2. <https://www.spcbrasil.org.br/>
 3. <https://chooser-beta.creativecommons.org>
-4. <>
-5. <https://www.toptal.com/developers/gitignore>
+4. <https://nubank.com.br/>
+5. <https://inter.co/>
+6. <https://www.itau.com.br/>
