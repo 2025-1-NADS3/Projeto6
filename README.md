@@ -129,9 +129,6 @@ Conectado ao banco de dados SQLite.
 - Use o terminal do Android Studio para rodar o front-end, se for um app mobile.
 
 
--<a href="https://godotengine.org/download">GODOT</a>
-
-
 ## 📋 Licença/License
 <<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
     Study Bank © 2025 by Liberdade - São Paulo está licenciado sob a Licença Creative Commons Atribuição 4.0 Internacional. Para visualizar uma cópia desta licença, visite https://creativecommons.org/licenses/by/4.0/
